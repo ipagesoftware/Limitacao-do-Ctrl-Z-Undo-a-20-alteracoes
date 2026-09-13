@@ -161,7 +161,11 @@ VBA6.DLL
 
 3 - Crie uma pasta e copie a dll para lá
 
-4 - Com um programa editor HEX localize o seguinte texto:
+4 - Com um programa editor HEX 
+
+https://imhex.werwolv.net/
+
+localize o seguinte texto:
 83FB140F8743C1FCFF8B4D0C
 
 
