@@ -181,11 +181,11 @@ C:\Program Files (x86)\Microsoft Visual Studio\VB98
 ```text
 C:\Program Files (x86)\Microsoft Visual Studio\VB98
 │
-├── Setup\
-├── Template\
-├── Tsql\
-├── Wizards\
-├── NovaPasta\
+├── Setup/
+├── Template/
+├── Tsql/
+├── Wizards/
+├── NovaPasta/
 |      |
 │      └── VBA6.DLL ── antiga DLL
 |
@@ -198,11 +198,11 @@ C:\Program Files\Microsoft Visual Studio\VB98
 ```text
 C:\Program Files\Microsoft Visual Studio\VB98
 │
-├── Setup\
-├── Template\
-├── Tsql\
-├── Wizards\
-├── NovaPasta\
+├── Setup/
+├── Template/
+├── Tsql/
+├── Wizards/
+├── NovaPasta/
 |      |
 │      └── VBA6.DLL ── antiga DLL
 |
