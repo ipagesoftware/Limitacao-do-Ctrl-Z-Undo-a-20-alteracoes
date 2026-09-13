@@ -340,6 +340,8 @@ O VB6 continua sendo utilizado em muitos sistemas legados. Apesar de suas limita
 
 Conhecer essas limitações e adotar ferramentas complementares, como Git e sistemas de backup, é uma maneira prática de tornar a manutenção desses projetos mais segura.
 
+---
+
 ## Minhas Redes Sociais
 
 Grupo no WhatsApp de Estudos: ** Código Limpo**
