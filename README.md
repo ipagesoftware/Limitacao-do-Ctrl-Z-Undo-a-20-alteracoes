@@ -142,35 +142,38 @@ Se a versão `v1.4` apresentar um problema, podemos comparar ou recuperar uma ve
 Você poderá **modificar** a DLL **VBA6.DLL**.
 
 VERSÃO 32 BITS DO SISTEMA OPERACIONAL WINDOWS
+
 1 - Vá na pasta
 C:\Program Files\Microsoft Visual Studio\VB98
+
 
 VERSÃO 64 BITS DO SISTEMA OPERACIONAL WINDOWS
 
 1 - Vá na pasta
 C:\Program Files (x86)\Microsoft Visual Studio\VB98
+
 ---
 
 2 - Localize o arquivo 
 VBA6.DLL
----
+
 
 3 - Crie uma pasta e copie a dll para lá
----
 
 4 - Com um programa editor HEX localize o seguinte texto:
 83FB140F8743C1FCFF8B4D0C
----
+
 
 5 - Substitua o valor 14 por 7F
 83FB7F0F8743C1FCFF8B4D0C
----
+
 
 6 - Salve as alterações
----
+
 
 7 - Copie a dll modificada para a pasta:
 C:\Program Files (x86)\Microsoft Visual Studio\VB98 ou C:\Program Files\Microsoft Visual Studio\VB98
+
 ---
 
 Pronto! O VB agora terá 127 interações de desfazer como CTRL+Z
