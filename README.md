@@ -340,9 +340,12 @@ O VB6 continua sendo utilizado em muitos sistemas legados. Apesar de suas limita
 
 Conhecer essas limitações e adotar ferramentas complementares, como Git e sistemas de backup, é uma maneira prática de tornar a manutenção desses projetos mais segura.
 
-## Redes Sociais
+## Minhas Redes Sociais
 
-Grupo no WhatsApp
+Grupo no WhatsApp de Estudos: ** Código Limpo**
+https://chat.whatsapp.com/HtA3mPmmB4RLw7tVJYVvL2
+
+Grupo no WhatsApp da Ipage
 https://chat.whatsapp.com/DPcG8meShJQCW3IgJLOYHZ
 
 Grupo no Telegram
@@ -353,8 +356,11 @@ http://www.linkedin.com/in/diogenes-dias-458a6a50
 
 Instagram
 https://www.instagram.com/ipage_software/?igsh=MWluYXhxcXE0cnE2cQ%3D%3D
+---
 
-APi para cálculo de rotas, CEP, CNPJ.
+## Meus Produtos
+
+APi para cálculo de rotas, consulta de CEP, consulta de CNPJ.
 https://rapidapi.com/diogenes/api/ipage_cep/details
 
 
