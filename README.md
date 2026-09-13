@@ -240,7 +240,7 @@ Por isso, antes de modificar uma instalação de produção do VB6, é recomend�
 
 ---
 
-# Uma abordagem mais segura: Git + VB6
+# Uma abordagem complementar para usuários mais avançados: Git + VB6
 
 Mesmo utilizando uma solução para aumentar o Undo, eu recomendaria utilizar **Git** para controlar o histórico do projeto.
 
