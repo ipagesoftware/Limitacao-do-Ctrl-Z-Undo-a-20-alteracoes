@@ -137,17 +137,19 @@ Se a versão `v1.4` apresentar um problema, podemos comparar ou recuperar uma ve
 
 ---
 
-# Uma solução interessante: ModernVB
+# Uma solução interessante:
 
 Você poderá **modificar** a DLL **VBA6.DLL**.
 
-VERSÃO 32 BITS DO SISTEMA OPERACIONAL WINDOWS
+1 - Baixe a DLL **VBA6.DLL**
+
+NA VERSÃO 32 BITS DO SISTEMA OPERACIONAL WINDOWS XP/Vista/7 (todos 32 bits)
 
 1 - Vá na pasta
 C:\Program Files\Microsoft Visual Studio\VB98
 
 
-VERSÃO 64 BITS DO SISTEMA OPERACIONAL WINDOWS
+NA VERSÃO 64 BITS DO SISTEMA OPERACIONAL WINDOWS 8, 10, 11
 
 1 - Vá na pasta
 C:\Program Files (x86)\Microsoft Visual Studio\VB98
@@ -171,7 +173,18 @@ VBA6.DLL
 7 - Copie a dll modificada para a pasta:
 
 C:\Program Files (x86)\Microsoft Visual Studio\VB98
-
+```text
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\
+│
+├── Setup/
+├── Template/
+├── Tsql
+├── Wizards
+├── NovaPasta/
+|      |
+│      └── VBA6.DLL (antiga DLL)
+└── VBA6.DLL (nova DLL)
+```
 ou 
 
 C:\Program Files\Microsoft Visual Studio\VB98
