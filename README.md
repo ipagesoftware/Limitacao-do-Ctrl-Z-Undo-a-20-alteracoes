@@ -139,21 +139,54 @@ Se a versão `v1.4` apresentar um problema, podemos comparar ou recuperar uma ve
 
 # Uma solução interessante: ModernVB
 
-Existe um projeto chamado **ModernVB**, desenvolvido para modernizar algumas características da experiência de desenvolvimento com VB6.
+Você poderá **modificar** a DLL **VBA6.DLL**.
 
-Entre suas melhorias está justamente a possibilidade de ampliar o histórico de **Undo/Redo**, eliminando a limitação prática dos 20 níveis do editor original.
+VERSÃO 32 BITS DO SISTEMA OPERACIONAL WINDOWS
+1 - Vá na pasta
+C:\Program Files\Microsoft Visual Studio\VB98
 
-Projeto:
+VERSÃO 64 BITS DO SISTEMA OPERACIONAL WINDOWS
 
-https://github.com/VykosX/ModernVB
+1 - Vá na pasta
+C:\Program Files (x86)\Microsoft Visual Studio\VB98
+---
 
-O projeto é particularmente interessante para desenvolvedores que continuam utilizando VB6 atualmente.
+2 - Localize o arquivo 
+VBA6.DLL
+---
+
+3 - Crie uma pasta e copie a dll para lá
+---
+
+4 - Com um programa editor HEX localize o seguinte texto:
+83FB140F8743C1FCFF8B4D0C
+---
+
+5 - Substitua o valor 14 por 7F
+83FB7F0F8743C1FCFF8B4D0C
+---
+
+6 - Salve as alterações
+---
+
+7 - Copie a dll modificada para a pasta:
+C:\Program Files (x86)\Microsoft Visual Studio\VB98 ou C:\Program Files\Microsoft Visual Studio\VB98
+---
+
+Pronto! O VB agora terá 127 interações de desfazer como CTRL+Z
+
+
+## ATENÇÃO
+
+Para facilitar a vida do iniciante a DLL já está modificada:
+A DLL nesta pasta já está devidamente modificada, basta copiar.
+
 
 ---
 
-## Mas é preciso ter cuidado
+# Mas é preciso ter cuidado
 
-Modificar o ambiente de desenvolvimento do VB6 pode ser útil, mas deve ser feito com cautela.
+Modificar **DLLs**  do ambiente de desenvolvimento do VB6 pode ser útil, mas deve ser feito com cautela.
 
 O VB6 é uma ferramenta antiga e muitos projetos dependem de:
 
@@ -259,11 +292,6 @@ Documentação relacionada ao menu Edit e às operações Undo/Redo:
 
 https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/edit-menu
 
-### ModernVB
-
-Projeto que busca modernizar a experiência de desenvolvimento do VB6, incluindo melhorias relacionadas ao Undo/Redo:
-
-https://github.com/VykosX/ModernVB
 
 ---
 
