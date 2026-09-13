@@ -339,3 +339,22 @@ https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-h
 O VB6 continua sendo utilizado em muitos sistemas legados. Apesar de suas limitações, ele ainda possui uma grande quantidade de aplicações em produção.
 
 Conhecer essas limitações e adotar ferramentas complementares, como Git e sistemas de backup, é uma maneira prática de tornar a manutenção desses projetos mais segura.
+
+## Redes Sociais
+
+Grupo no WhatsApp
+https://chat.whatsapp.com/DPcG8meShJQCW3IgJLOYHZ
+
+Grupo no Telegram
+https://t.me/+RqTU5VvdkRvFCR36
+
+Linkedin
+http://www.linkedin.com/in/diogenes-dias-458a6a50
+
+Instagram
+https://www.instagram.com/ipage_software/?igsh=MWluYXhxcXE0cnE2cQ%3D%3D
+
+APi para cálculo de rotas, CEP, CNPJ.
+https://rapidapi.com/diogenes/api/ipage_cep/details
+
+
