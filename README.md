@@ -10,7 +10,7 @@ Para quem ainda trabalha com projetos VB6, principalmente projetos antigos e de 
 
 ---
 
-## Como funciona
+## Como funciona?
 
 Quando uma alteração é realizada no editor de código, o VB6 adiciona essa ação à pilha de Undo.
 
