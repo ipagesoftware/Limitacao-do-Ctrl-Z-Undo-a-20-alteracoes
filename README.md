@@ -30,7 +30,7 @@ Ao pressionar:
 Ctrl + Z
 ```
 
-o VB6 desfaz a alteração mais recente.
+O VB6 desfaz a alteração mais recente.
 
 Se continuarmos utilizando `Ctrl + Z`, as alterações anteriores podem ser restauradas até o limite disponível na pilha.
 
