@@ -173,8 +173,9 @@ VBA6.DLL
 7 - Copie a dll modificada para a pasta:
 
 C:\Program Files (x86)\Microsoft Visual Studio\VB98
+
 ```text
-C:\Program Files (x86)\Microsoft Visual Studio\VB98\
+C:\Program Files (x86)\Microsoft Visual Studio\VB98
 │
 ├── Setup/
 ├── Template/
@@ -182,13 +183,27 @@ C:\Program Files (x86)\Microsoft Visual Studio\VB98\
 ├── Wizards
 ├── NovaPasta/
 |      |
-│      └── VBA6.DLL (antiga DLL)
-└── VBA6.DLL (nova DLL)
+│      └── VBA6.DLL ── antiga DLL
+|
+└── VBA6.DLL ── nova DLL
 ```
 ou 
 
 C:\Program Files\Microsoft Visual Studio\VB98
 
+```text
+C:\Program Files\Microsoft Visual Studio\VB98
+│
+├── Setup/
+├── Template/
+├── Tsql
+├── Wizards
+├── NovaPasta/
+|      |
+│      └── VBA6.DLL ── antiga DLL
+|
+└── VBA6.DLL ── nova DLL
+```
 ---
 
 Pronto! O VB agora terá 127 interações de desfazer como CTRL+Z
