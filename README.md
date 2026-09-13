@@ -172,7 +172,11 @@ VBA6.DLL
 
 
 7 - Copie a dll modificada para a pasta:
-C:\Program Files (x86)\Microsoft Visual Studio\VB98 ou C:\Program Files\Microsoft Visual Studio\VB98
+C:\Program Files (x86)\Microsoft Visual Studio\VB98
+
+ou 
+
+C:\Program Files\Microsoft Visual Studio\VB98
 
 ---
 
