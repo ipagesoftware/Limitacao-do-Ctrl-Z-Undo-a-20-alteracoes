@@ -342,6 +342,21 @@ Conhecer essas limitações e adotar ferramentas complementares, como Git e sist
 
 ---
 
+### ACEITE E RESPONSABILIDADE DO USUÁRIO
+
+Ao executar este procedimento, o usuário declara estar ciente
+de que esta DLL pode realizar alterações no comportamento do Visual Basic 6.0 e executar processos com
+privilégios administrativos.
+
+Este procedimento é realizado por sua conta e risco.
+
+O usuário é responsável por verificar previamente se possui
+permissão para instalar, modificar ou remover os componentes
+em seu computador.
+
+------------------------------------------------------------------------
+
+
 ## Minhas Redes Sociais
 
 Grupo no WhatsApp de Estudos: ** Código Limpo**
